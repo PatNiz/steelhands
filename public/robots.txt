@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://steelhands.pl/sitemap.xml
